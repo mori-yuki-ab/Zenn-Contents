@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/mori-yuki-ab/Zenn-Contents#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.133"
+    "zenn-cli": "^0.1.150"
   }
 }
